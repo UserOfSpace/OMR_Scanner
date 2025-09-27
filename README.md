@@ -11,8 +11,8 @@ It can do live Checking &amp; Marking using a Camera's Vision or through image o
 1. Open **_main.py_**.
 2. Path of the image can be set using the 'path' variable (5th line).
 3. Correct answers can be set in list using the 'ans' variable (10th line).
-
-
+  
+  
 /project-root  
   ├── /OMR-Scanner-main  
   │    ├── main.py   # This is the entry point to the program  
