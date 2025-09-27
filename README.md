@@ -18,8 +18,5 @@ It can do live Checking &amp; Marking using a Camera's Vision or through image o
   │    ├── main.py   # This is the entry point to the program
   │    ├── UTLIS.py  # This is understandable UI part of the program
   │    └── /Sample_OMR_Sheets
-  │         ├── IMG 1.jpg
-  │         ├── IMG 2.jpg
-  │         └── IMG 3.jpg
   └── README.md
   
