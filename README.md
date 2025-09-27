@@ -13,10 +13,9 @@ It can do live Checking &amp; Marking using a Camera's Vision or through image o
 3. Correct answers can be set in list using the 'ans' variable (10th line).
 
 
-/project-root
-  ├── /OMR-Scanner-main
-  │    ├── main.py   # This is the entry point to the program
-  │    ├── UTLIS.py  # This is understandable UI part of the program
-  │    └── /Sample_OMR_Sheets
-  └── README.md
-  
+/project-root  
+  ├── /OMR-Scanner-main  
+  │    ├── main.py   # This is the entry point to the program  
+  │    ├── UTLIS.py  # This is understandable UI part of the program  
+  │    └── /Sample_OMR_Sheets  
+  └── README.md  
